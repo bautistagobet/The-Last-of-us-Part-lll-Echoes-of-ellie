@@ -1,0 +1,6 @@
+{
+  "name": "The Last of Us Part III: Echoes of Ellie",
+  "description": "Videojuego 3D hiperrealista fan-made de supervivencia, sigilo y combate emocional. JJ busca a Ellie Williams con el cuchillo de Dina.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
